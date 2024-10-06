@@ -1,0 +1,13 @@
+tai_wsl@tailung:/mnt/g/embsys/emb/MCU/CORTEXM4$ sudo apt-get install qemu-system-arm
+[sudo] password for tai_wsl: 
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+qemu-system-arm is already the newest version (1:6.2+dfsg-2ubuntu6.22).
+0 upgraded, 0 newly installed, 0 to remove and 55 not upgraded.
+tai_wsl@tailung:/mnt/g/embsys/emb/MCU/CORTEXM4$ sudo apt-get install gcc-arm-none-eabi
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+gcc-arm-none-eabi is already the newest version (15:10.3-2021.07-4).
+0 upgraded, 0 newly installed, 0 to remove and 55 not upgraded.
