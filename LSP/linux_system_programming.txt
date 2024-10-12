@@ -21,6 +21,56 @@ MEMORY
 ##SYSTEM CALLS
 
 
-1.fork()
-2.excev()
-3.
+1. fork()
+2. excev()
+wait(), exit()
+
+
+
+
+3. open()
+4. close()
+5. write()
+6. read()
+
+
+
+7. sigaction()
+8. kill()
+sig mask
+
+
+pthread()
+pthread_add()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
